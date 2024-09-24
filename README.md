@@ -11,3 +11,8 @@ Belajar kelas Memulai Dasar Pemrograman dengan Javascript, HTML dan CSS. (Progre
 * Belajar menggunakan logika perulangan & perbandingan serta menggunakan js, html dan css.
 * belajar menggabungkan if/else dengan OR dan AND.
 * belajar perulangan js.
+
+**24 September 2024**<br>
+Belajar kelas Memulai Dasar Pemrograman dengan Javascript, HTML dan CSS. (Progress 100%)
+* Instalasi VSC dan memodifikasi aplikasi login menggunakan html, js, css.
+* Mempelajari git dan memahami style guide serta membuat komentar.
